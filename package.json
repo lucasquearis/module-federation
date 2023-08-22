@@ -1,0 +1,8 @@
+{
+  "name": "projeto-module-federation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucasquearis/module-federation.git",
+  "author": "lucasquearis <lucasquearis@hotmail.com>",
+  "license": "MIT"
+}
